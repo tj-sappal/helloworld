@@ -1,0 +1,1 @@
+This program prints "Hello, Git world" to the screen
